@@ -5,10 +5,10 @@ int lastSecond = 0;
 int lastMinute = 0;
 int lastHour = 0;
 
-float faceSize = 500;
+float faceSize = 250;
 float lengthSecondHand = 220;
 float lengthMinuteHand = 200;
-float lengthHourHand = 100;
+float lengthHourHand = 180;
 
 color outlineCol = color(0);
 color secondCol = color(200, 0, 0);
